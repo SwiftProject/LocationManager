@@ -6,3 +6,11 @@
 >Version 6.4 (6E35b)
 >* Language
 >Swift 1.2
+## 
+>####iOS系统
+>* iOS 7
+
+>* iOS 8
+> 需要在Info.plist文件添加加`NSLocationAlwaysUseUsageDescription`或者`NSLocationWhenInUseUsageDescription`，看需求添加。
+
+
